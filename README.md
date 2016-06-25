@@ -34,6 +34,8 @@ Dicas para utilização:
 - Se quiser parar: ./stop.sh
 - Se quiser remover os containers: ./remove.sh
 
+Melhor ainda é abrir cada um desses scripts, ver o que ele está fazendo e fazer as suas customizações! ;)
+
 Os comandos foram testados em um MAC OSX. Para Windows, basta fazer as devidas adaptações de shell command.
 
 Não esqueça de dar permissão de execução nos arquivos (ambiente Linux e MAC).
