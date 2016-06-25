@@ -2,7 +2,10 @@
 # Repositório de arquivos utilizados para a palestra 
 # "Passo a Passo para Alta Disponibilidade com Docker e Java EE"
 
-Para baixar o Docker na sua máquina:
+Site do Docker:
+https://www.docker.com/
+
+Lá a própria página vai direcionar para o download correto para o seu SO, mas se quiser os links diretos:
 
 Windows:
 https://download.docker.com/mac/beta/Docker.dmg
@@ -32,3 +35,5 @@ Dicas para utilização:
 - Se quiser remover os containers: ./remove.sh
 
 Os comandos foram testados em um MAC OSX. Para Windows, basta fazer as devidas adaptações de shell command.
+
+Não esqueça de dar permissão de execução nos arquivos (ambiente Linux e MAC).
