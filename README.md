@@ -23,7 +23,7 @@ http://docs.docker.com/docker-for-mac/
 
 Dicas para utilização:
 
-- Na pasta "build" deste respositório você encontrará todos os scripts que automatizam o processo de build, create, run, start, stop e remove
+- Na pasta "build" deste repositório você encontrará todos os scripts que automatizam o processo de build, create, run, start, stop e remove
 - Sugiro o seguinte passo-a-passo:
   - ./build.sh
   - ./create.sh
