@@ -10,6 +10,7 @@ https://download.docker.com/mac/beta/Docker.dmg
 MAC:
 https://download.docker.com/win/beta/InstallDocker.msi
 
+
 Recomendo fortemente que faça o tutorial inicial para deixar o seu Docker "up and running":
 
 Windows:
@@ -17,3 +18,17 @@ https://docs.docker.com/docker-for-windows/
 
 MAC:
 http://docs.docker.com/docker-for-mac/
+
+
+Dicas para utilização:
+
+- Na pasta build você encontrará todos os scripts que automatizam o processo de build, create, run, start, stop e remove
+- Sugiro o seguinte passo-a-passo:
+  - ./build.sh
+  - ./create.sh
+  - ./start.sh
+- Nesse momento, sua infra de alta disponibilidade já está funcionando
+- Se quiser parar: ./stop.sh
+- Se quiser remover os containers: ./remove.sh
+
+Os comandos foram testados em um MAC OSX. Para Windows, basta fazer as devidas adaptações de shell command.
