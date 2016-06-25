@@ -1,6 +1,4 @@
-# JavaOne 2016
-# Repositório de arquivos utilizados para a palestra 
-# "Passo a Passo para Alta Disponibilidade com Docker e Java EE"
+# JavaOne 2016 - "Passo a Passo para Alta Disponibilidade com Docker e Java EE"
 
 Site do Docker:
 https://www.docker.com/
