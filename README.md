@@ -1,4 +1,4 @@
-# JavaOne 2016 - "Passo a Passo para Alta Disponibilidade com Docker e Java EE"
+# JavaOne 2016 - "Alta Disponibilidade com Docker e Java EE (Passo a Passo)"
 
 Baseado no artigo de autoria minha e do Bruno Souza publicado no portal oficial do Java (na Oracle):
 https://community.oracle.com/docs/DOC-998210
