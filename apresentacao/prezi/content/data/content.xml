@@ -1,0 +1,303 @@
+<zuiprezi><version>10</version><zui-table><settings><autoplay><delay>4000</delay></autoplay><bounds x="-216102.56423285927" y="-106154.79757301198" width="455300.9284657185" height="256649.99514602395"/><aspectratio>16:9</aspectratio><languages><language>es</language></languages><mode type="normal"/></settings><object id="29_753124" type="shape" x="146751.62999590128" y="-11041.695997284682" r="-0.10157235198593136" s="77.7328848967664" class="poly3"><style borderThickness="9" color="16777215" gradStartColor="16777215" gradStartAlpha="1" gradEndColor="16777215" borderColor="16777215" gradEndAlpha="1"/><style borderThickness="9" color="16777215" gradStartColor="16777215" gradStartAlpha="1" gradEndColor="16777215" borderColor="16777215" gradEndAlpha="1"/><geom type="poly"><p x="-185.84903080058186" y="-110.20863163120518"/><p x="185.84903080058186" y="-110.20863163120518"/><p x="185.84903080058186" y="110.20863163120518"/><p x="-185.84903080058186" y="110.20863163120518"/><t>9</t><r>0</r></geom></object><object id="26_753124" type="image" x="133984.87385668297" y="36683.18367504487" r="3.015194636244359" s="43.956427473117515"><source w="424" h="283">4586015773<url>4586015773.png</url></source><resource><id>4586015773</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/6/4/1ead6347c5ca8a9b023a52b55c89981605d9f.png</url></resource><sourceUrl>http%3A%2F%2F4.bp.blogspot.com%2F-LuiNVdNiEi8%2FVW5m2VRfu1I%2FAAAAAAAABC0%2FjOL83H79tqI%2Fs1600%2FCardboard%252BBox%252BPlain%252B%252528Transparent%252529.png</sourceUrl></object><object id="23_753124" type="image" x="117239.7" y="34724.1" r="-0.10157235198593166" s="24.4954043831004"><source w="1119" h="1098">4586014126<url>4586014126.png</url></source><resource><id>4586014126</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/7/a/46bda48cc1d9d6be7787ce91e43cee70becd4.png</url></resource><sourceUrl>http%3A%2F%2Fstoreitall.relativecreative.co%2Fwp-content%2Fuploads%2Fsites%2F37%2F2015%2F03%2Fcardboard-box.png</sourceUrl></object><object id="7" type="image" x="134751.88512335476" y="27981.364243514843" r="-0.10157235198593155" s="3.844841681393454"><source w="1500" h="831">4585904206<url>4585904206.gif</url></source><resource><id>4585904206</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/a/5/fb20f5c54e686d8351941487f6efa335e14c9.gif</url></resource><sourceUrl>http%3A%2F%2Fdocs.oracle.com%2Fjavaee%2F1.3%2Ftutorial%2Fdoc%2Fimages%2FFig55.gif</sourceUrl></object><object id="8" type="image" x="134160.1426642964" y="26643.77118089584" r="-0.10157235198593162" s="0.6857367682639286"><source w="392" h="197">4585904424<url>4585904424.gif</url></source><resource><id>4585904424</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/7/2/d/18aa1c1dea02bf5a42277ef0852e5cf47ce89.gif</url></resource><sourceUrl>http%3A%2F%2Fdocs.oracle.com%2Fjavaee%2F6%2Ftutorial%2Fdoc%2Ffigures%2Foverview-architecture-cont.gif</sourceUrl></object><object id="0_753124" type="button" x="157621.69372908567" y="-15481.5626710658" r="-0.10157235198593166" s="78.94475117675073" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="2_753124" type="button" x="158697.94290784156" y="-31621.709982840275" r="-0.10157235198593172" s="76.64425592271542" class="invisible"><type>invisible</type><size><w>575.9164379018813</w><h>302.1289977879637</h></size></object><object id="9" type="image" x="166042.52740884115" y="-31634.13852496527" r="-0.10157235198593179" s="49.27600647449467"><source w="809" h="62">4585927464<mask x="315" y="0" w="478" h="62"/><url>4585927464.png</url></source><resource><id>4585927464</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/a/6/2db14c38e63134d272e653763a7b0841f08ec.png</url></resource><sourceUrl>docker.build.png</sourceUrl></object><object id="11" type="image" x="172630.15655612634" y="-5656.731797320954" r="-0.10157235198593155" s="7.754475598965846"><source w="945" h="158">4585927475<url>4585927475.png</url></source><resource><id>4585927475</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/f/4af8c9736f525e65c87bcc3684291eeeaceed.png</url></resource><sourceUrl>docker.run-ptbr.png</sourceUrl></object><object id="12" type="image" x="173808.37223033176" y="-15049.7130206102" r="-0.10157235198593169" s="42.017814548921606"><source w="317" h="133">4585927481<url>4585927481.png</url></source><resource><id>4585927481</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/1/e/e67d91b2a896dacd61f8df09c6ecc6bbfa7e3.png</url></resource><sourceUrl>docker.start.png</sourceUrl></object><object id="4_753124" type="image" x="142683.1048778336" y="-31592.68854075232" r="-0.10157235198593179" s="49.27600647449467"><source w="809" h="62">4585927491<mask x="0" y="0" w="159" h="62"/><url>4585927491.png</url></source><resource><id>4585927491</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/2/253f1b948c5c30528ca3fc9cfabc44ac76d2c.png</url></resource><sourceUrl>docker.build.png</sourceUrl></object><object id="5_753124" type="image" x="150394.78777323675" y="-31606.359610360138" r="-0.10157235198593179" s="49.27600647449467"><source w="809" h="62">4585927491<mask x="156" y="0" w="160" h="62"/><url>4585927491.png</url></source><resource><id>4585927491</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/2/253f1b948c5c30528ca3fc9cfabc44ac76d2c.png</url></resource><sourceUrl>docker.build.png</sourceUrl></object><object id="9_753124" type="image" x="158610.6215879956" y="-31620.64745461513" r="-0.10157235198593179" s="49.27600647449467"><source w="809" h="62">4585927491<url>4585927491.png</url></source><resource><id>4585927491</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/2/253f1b948c5c30528ca3fc9cfabc44ac76d2c.png</url></resource><sourceUrl>docker.build.png</sourceUrl></object><object id="10_753124" type="button" x="178095.67916057372" y="-30585.727604580938" r="-0.1015723519859313" s="1.780378250434282" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="8_753124" type="text" x="178040.12261954782" y="-30983.323583985242" r="-0.1015723519859316" s="4.314862831077456" class="body"><height>27.59765625</height><width>-106.69921875</width><p><text><![CDATA[Dockerfile]]></text></p></object><object id="6_753124" type="shape" x="177993.5571080762" y="-35711.76928663907" r="-90.10157235168847" s="70.97712054951599" class="line3"><geom type="arrow"><sp>47.50067766105301 0</sp><ep>-47.50067766105301 0</ep><t>7</t></geom></object><object id="13" type="image" x="178097.12295608013" y="-30533.63435537524" r="-0.10157235198593137" s="1.467105509562764"><source w="907" h="505">4585927513<url>4585927513.png</url></source><resource><id>4585927513</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/4/6/54bbbac6501e9c10f0326ecfc1fe9e8b99e2b.png</url></resource><sourceUrl>dockerfile-ptbr.png</sourceUrl></object><object id="19_753124" type="image" x="120036.85000000002" y="18899.500000000007" r="-0.1015723519859315" s="70.57690525375767"><source w="400" h="331">807328333<url>807328333.png</url></source><resource><id>807328333</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/4/9/69800e658b864ba1010480b7e6b816b075202.png</url></resource><sourceUrl>https%3A%2F%2Fwww.docker.io%2Fstatic%2Fimg%2Fhomepage-docker-logo.png</sourceUrl></object><object id="11_753124" type="text" x="146023.22029359525" y="-8003.971799666687" r="-0.10157235198593538" s="37.63312774843818" class="body"><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><height>190.3125</height><width>693.3053418249065</width><p><text color="5974240" weight="bold"><![CDATA[docker create]]></text><text weight="bold"><![CDATA[ --name ]]></text><text color="3518377" weight="bold"><![CDATA[loadbalancer]]></text></p><p><text weight="bold"><![CDATA[               -p 80:80]]></text></p><p><text weight="bold"><![CDATA[              --link ]]></text><text color="3518377" weight="bold"><![CDATA[host1:host1]]></text></p><p><text weight="bold"><![CDATA[              --link ]]></text><text color="3518377" weight="bold"><![CDATA[host2:host2]]></text></p><p><text weight="bold"><![CDATA[              --link ]]></text><text color="3518377" weight="bold"><![CDATA[host3:host3]]></text></p><p><text weight="bold"><![CDATA[              --env-file ./env.list]]></text></p><p><text weight="bold"><![CDATA[              ]]></text><text color="16744448" weight="bold"><![CDATA[jasonwyatt/nginx-loadbalancer]]></text></p></object><object id="14" type="image" x="152731.537537074" y="-6023.234017063896" r="-0.10157235198592762" s="1.6273667431481098"><source w="764" h="313">4585927526<url>4585927526.png</url></source><resource><id>4585927526</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/8/d/7b9376c1e6fb1b047f2815e0e2d9a4a9da379.png</url></resource><sourceUrl>env.list-ptbr.png</sourceUrl></object><object id="17_753124" type="button" x="146365.16709032547" y="-11590.894603056408" r="-0.10157235198593136" s="36.69014399672228" class="invisible"><type>invisible</type><size><w>800</w><h>600</h></size></object><object id="13_753124" type="persistentgroup" x="146023.22029359525" y="-8003.971799666687" r="-0.10157235198593133" s="34.411910695117854"><m o="11_753124"/><m o="14"/></object><object id="14_753124" type="text" x="146436.25640757004" y="-17029.155565417648" r="-0.10157235198593167" s="37.63312774843542" class="body"><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><height>27.1875</height><width>717.8077271770355</width><p><text color="5974240" weight="bold"><![CDATA[docker create]]></text><text weight="bold"><![CDATA[ --name ]]></text><text color="3518377" weight="bold"><![CDATA[host1 ]]></text><text weight="bold"><![CDATA[-p 8080:8080 ]]></text><text color="16744448" weight="bold"><![CDATA[tomee-war]]></text></p></object><object id="16_753124" type="text" x="146441.89010430482" y="-14048.113861412252" r="-0.10157235198593167" s="37.63312774843542" class="body"><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><style font-family="LiberationMonoPR" fontFamily="custom-liberationmonopr"/><height>81.5625</height><width>717.8077271770355</width><p><text color="5974240" weight="bold"><![CDATA[docker create]]></text><text weight="bold"><![CDATA[ --name ]]></text><text color="3518377" weight="bold"><![CDATA[host2 ]]></text><text weight="bold"><![CDATA[-p 8081:8080 ]]></text><text color="16744448" weight="bold"><![CDATA[tomee-war]]></text></p><p><text color="16744448" weight="bold"><![CDATA[]]></text></p><p><text color="5974240" weight="bold"><![CDATA[docker create]]></text><text weight="bold"><![CDATA[ --name ]]></text><text color="3518377" weight="bold"><![CDATA[host3 ]]></text><text weight="bold"><![CDATA[-p 8082:8080 ]]></text><text color="16744448" weight="bold"><![CDATA[tomee-war]]></text></p></object><object id="18_753124" type="button" x="173915.3652431653" y="-15485.871114535748" r="-0.10157235198593167" s="27.916214977909007" class="invisible"><type>invisible</type><size><w>801.5128593040847</w><h>600</h></size></object><object id="22_753124" type="image" x="68929.85" y="-17978.6" r="-0.10157235198593169" s="304.7141791084697"><source w="200" h="200">807382857<url>807382857.png</url></source><resource><id>807382857</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/3/d/89eb78d77f7df12829b3011041f163d8edfcd.png</url></resource><sourceUrl>http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F3%2F3a%2FOpenShift-LogoType.svg%2F200px-OpenShift-LogoType.svg.png</sourceUrl></object><object id="24_753124" type="image" x="-115025.95" y="-65693.75" r="-0.10157235198593179" s="137.40769378778177"><source w="800" h="295">807382133<url>807382133.png</url></source><resource><id>807382133</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/f/6/1e605c6b84495e01d67a7a405fe8ebacee269.png</url></resource><sourceUrl>http%3A%2F%2Fwww.smartops.com%2Fwp-content%2Fuploads%2F2012%2F07%2Faws-logo-large.png</sourceUrl></object><object id="25_753124" type="image" x="-28080.65" y="-17055.5" r="-0.10157235198593184" s="417.84207365855434"><source w="200" h="120">4585931294<url>4585931294.png</url></source><resource><id>4585931294</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/5/4/883ffb76f4af716828671b948ce670b54ba4d.png</url></resource><sourceUrl>http%3A%2F%2F6etech.com%2Fbeta%2Fimages%2Flogo_oracle_cloud.png</sourceUrl></object><object id="15_753124" type="shape" x="135692.96767714474" y="26644.85322594172" r="-0.10157235198593137" s="1.002762858921328" class="poly3"><style borderThickness="4" color="16777215" gradStartColor="16777215" gradStartAlpha="1" gradEndColor="16777215" borderColor="16777215" gradEndAlpha="1"/><style borderThickness="4" color="16777215" gradStartColor="16777215" gradStartAlpha="1" gradEndColor="16777215" borderColor="16777215" gradEndAlpha="1"/><geom type="poly"><p x="-181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="-133.99997329900538"/><p x="181.4999691968996" y="133.99997329900538"/><p x="-181.4999691968996" y="133.99997329900538"/><t>4</t><r>0</r></geom></object><object id="0" type="image" x="135691.53862152342" y="26645.80815563263" r="-0.1015723519859305" s="0.21134005071225892"><source w="525" h="559">4585928529<url>4585928529.png</url></source><resource><id>4585928529</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/f/4/9f6dd42abb9934dbe625f25d9b2898b867664.png</url></resource><sourceUrl>https%3A%2F%2Fagoncal.files.wordpress.com%2F2014%2F05%2Fjava_ee_logo_vert_v2.png</sourceUrl></object><object id="1_753124" type="image" x="135794.84465179793" y="26723.104038014357" r="-0.10157235198593136" s="0.5171637521443733"><source w="200" h="200">4585929406<url>4585929406.png</url></source><resource><id>4585929406</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/7/8/c3a5cc867699cd25809c9397417fc67d2c64f.png</url></resource><sourceUrl>http%3A%2F%2Fjbaysolutions.com%2Fimages%2Flogo-glassfish.png</sourceUrl></object><object id="3_753124" type="image" x="135615.10417921378" y="26561.306894670422" r="-0.10157235198593133" s="0.20706071055389766"><source w="600" h="180">4585929525<url>4585929525.png</url></source><resource><id>4585929525</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/4/a/9e8e6b153e079b6f1e193b399fe945446019b.png</url></resource><sourceUrl>http%3A%2F%2Fdesign.jboss.org%2Fwildfly%2Flogo%2Ffinal%2Fwildfly_logo_600px.png</sourceUrl></object><object id="7_753124" type="image" x="135792.80123581405" y="26559.323579156455" r="-0.1015723519859312" s="0.8608803420658758"><source w="135" h="104">4585929732<url>4585929732.png</url></source><resource><id>4585929732</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/7/b/b743a1fd485383f6f5cb9d625c5e2ba31ea41.png</url></resource><sourceUrl>http%3A%2F%2Fwww.orand.cl%2Fwp-content%2Fthemes%2Fcorporattica%2Fimages%2Ftechnology%2Flogo_oracle_weblogic.png</sourceUrl></object><object id="12_753124" type="image" x="135585.64827103392" y="26725.541445968563" r="-0.10157235198593159" s="0.44249660822758835"><source w="225" h="150">4585929867<url>4585929867.jpe</url></source><resource><id>4585929867</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/9/f/e0130c30918db58fac810ee81edb74007bfd8.jpe</url></resource><sourceUrl>http%3A%2F%2Fcdn.frightanic.com%2Fblog%2Fwp-content%2Fuploads%2F2010%2F05%2Fibm-websphere.jpeg</sourceUrl></object><object id="30_753124" type="button" x="123690.9" y="19751.95" r="-0.10157235198593167" s="72.73623814318837" class="invisible"><type>invisible</type><size><w>1066.6666666666665</w><h>600</h></size></object><object id="31_753124" type="button" x="11547.9" y="22170.2" r="-0.10157235198593167" s="426.4067594098269" class="invisible"><type>invisible</type><size><w>1066.6666666666665</w><h>600</h></size></object><object id="33_753124" type="image" x="138599.85" y="-66743.55" r="-0.10157235198593166" s="99.45495057354591"><source w="578" h="314">4586031316<url>4586031316.png</url></source><resource><id>4586031316</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/0/a/72704d87f39b1bb64e40c2703cf6ce9f35c76.png</url></resource><sourceUrl>http%3A%2F%2Fwww.healthusaweb.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fibm-softlayer-logo-96436.png</sourceUrl></object><object id="34_753124" type="image" x="20223.25" y="-67568.85" r="-0.10157235198593166" s="245.70780814519887"><source w="600" h="300">4586032266<url>4586032266.png</url></source><resource><id>4586032266</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/5/b/31f0da305fb23e09999994e02050f6eacd73a.png</url></resource><sourceUrl>http%3A%2F%2Fplugins.netbeans.org%2Fdata%2Fimages%2F1418381717_Jekastic_logo.png</sourceUrl></object><object id="20_753124" type="button" x="144280.05" y="28279.95" r="-0.1015723519859315" s="7.219876950194235" class="bracket"><type>bracket</type><size><w>1074.6268656716418</w><h>600</h></size></object><object id="21_753124" type="text" x="144543.25" y="27231.2" r="-0.10157235198593086" s="17.07260058470013" class="head"><height>82.79296875</height><width>307.7843707993249</width><p align="right"><text color="16777215"><![CDATA[Alta Disponibilidade com ]]></text></p><p align="right"><text color="16777215"><![CDATA[Docker e JavaEE]]></text></p><p align="right"><text color="16777215"><![CDATA[(Passo a Passo)]]></text></p></object><object id="27_753124" type="text" x="146513.65000000002" y="29153.75" r="-0.10157235198592922" s="8.055624485323545" class="head"><height>55.1953125</height><width>151.4744397146979</width><p align="right"><text color="16777215"><![CDATA[Bruno Souza]]></text></p><p align="right"><text color="16777215"><![CDATA[@brjavaman]]></text></p></object><object id="28_753124" type="text" x="144453.79797661485" y="28407.111418611825" r="-0.10157235198592922" s="8.055624485323545" class="head"><height>55.1953125</height><width>151.4744397146979</width><p align="right"><text color="16777215"><![CDATA[Elder Moraes]]></text></p><p align="right"><text color="16777215"><![CDATA[@elderjava]]></text></p></object><object id="32_753124" type="text" x="146499.9" y="28403.499999999996" r="-0.10157235198592922" s="8.055624485323545" class="head"><height>55.1953125</height><width>185.2623574097458</width><p align="right"><text color="16777215"><![CDATA[Andre Carvalho]]></text></p><p align="right"><text color="16777215"><![CDATA[@andretc83]]></text></p></object><object id="36_753124" type="text" x="144816.45" y="29741.65" r="-0.10157235198592915" s="17.072600584700144" class="head"><height>27.59765625</height><width>272.3100004391508</width><p align="right"><text color="16777215"><![CDATA[http://jav.mn/dockerjee]]></text></p></object><object id="37_753124" type="button" x="37447.55000000007" y="34246.050000000025" r="-0.10157235198593184" s="34.77147542650485" class="bracket"><type>bracket</type><size><w>1080.5252946533883</w><h>654.7499755837812</h></size></object><object id="43_753124" type="shape" x="37332.24999999999" y="34281.700000000004" r="-0.10157235198593198" s="68.0031557652867" class="poly3"><style borderThickness="9" color="8028290" gradStartColor="8028290" gradStartAlpha="1" gradEndColor="8028290" borderColor="8028290" gradEndAlpha="1"/><style borderThickness="9" color="8028290" gradStartColor="8028290" gradStartAlpha="1" gradEndColor="8028290" borderColor="8028290" gradEndAlpha="1"/><geom type="poly"><p x="-257.2921981307437" y="-147.56674194172967"/><p x="257.2921981307437" y="-147.56674194172967"/><p x="257.2921981307437" y="147.56674194172967"/><p x="-257.2921981307437" y="147.56674194172967"/><t>9</t><r>0</r></geom></object><object id="38_753124" type="text" x="38594.90296524575" y="28407.844550984013" r="-0.10157235198593147" s="82.22294033438666" class="head"><height>82.79296875</height><width>307.7843707993249</width><p align="right"><text color="16777215"><![CDATA[Alta Disponibilidade com ]]></text></p><p align="right"><text color="16777215"><![CDATA[Docker e JavaEE]]></text></p><p align="right"><text color="16777215"><![CDATA[(Passo a Passo)]]></text></p></object><object id="39_753124" type="text" x="48084.49893108044" y="37666.99128470062" r="-0.10157235198592958" s="38.7964989942167" class="head"><height>55.1953125</height><width>151.4744397146979</width><p align="right"><text color="16777215"><![CDATA[Bruno Souza]]></text></p><p align="right"><text color="16777215"><![CDATA[@brjavaman]]></text></p></object><object id="40_753124" type="text" x="38164.09523064794" y="34071.12320213991" r="-0.10157235198592958" s="38.7964989942167" class="head"><height>55.1953125</height><width>151.4744397146979</width><p align="right"><text color="16777215"><![CDATA[Elder Moraes]]></text></p><p align="right"><text color="16777215"><![CDATA[@elderjava]]></text></p></object><object id="41_753124" type="text" x="48018.27788736822" y="34053.730335975764" r="-0.10157235198592958" s="38.7964989942167" class="head"><height>55.1953125</height><width>185.2623574097458</width><p align="right"><text color="16777215"><![CDATA[Andre Carvalho]]></text></p><p align="right"><text color="16777215"><![CDATA[@andretc83]]></text></p></object><object id="45_753124" type="text" x="38156.3" y="40995.1" r="-0.10157235198592877" s="67.27240413735093" class="head"><height>27.59765625</height><width>385.1987001463248</width><p align="right"><text color="16777215"><![CDATA[http://anonovoprojetonovo.com]]></text></p></object><object id="46_753124" type="button" x="38293.3" y="33808.5" r="-0.10157235198593167" s="42.63417927022232" class="invisible"><type>invisible</type><size><w>1066.6666666666665</w><h>600</h></size></object><object id="47_753124" type="image" x="172499.30000000002" y="-1030.0000000000002" r="-0.10157235198593154" s="6.523957989184067"><source w="1440" h="900">4586148633<mask x="227" y="123" w="1021" h="657"/><url>4586148633.png</url></source><resource><id>4586148633</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/4/0/95f6a2c8b274f40bdf1f530a0fa96d292d889.png</url></resource><sourceUrl>Captura%20de%20Tela%202016-06-29%20a%CC%80s%2011.38.04.png</sourceUrl></object></zui-table><background><layer depth="335.2565660070748" fadescale="0.00656213844281151"><object id="background-488877728" type="image" x="14868.224342083013" y="41561.31605965571" r="0" s="661.0491012040928"><source w="1500" h="1005">4586001794<url>4586001794.jpg</url></source><resource><id>4586001794</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/e/7/4a7af8355270f7ac02c88d299d4c691e1b34f.jpg</url></resource><sourceUrl>Container-ship-for-FAQs.jpg</sourceUrl></object></layer><layer depth="670.5131320141496" fadescale="0.03281069221405756"><object id="background-488877729" type="image" x="14868.224342083013" y="41561.31605965571" r="0" s="1248.843127764471"><source w="987" h="800">4586009018<url>4586009018.jpg</url></source><resource><id>4586009018</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/e/2/fbcbad3126ecea88e4eeb771b2d794f3563b9.jpg</url></resource><sourceUrl>________________3347222_orig.jpg</sourceUrl></object></layer><layer depth="1005.7696980212245" fadescale="0.16405346107028776"><object id="background-488877724" type="image" x="14868.224342083013" y="41561.31605965571" r="0" s="1571.0184425359723"><source w="1308" h="849">4585999794<url>4585999794.jpg</url></source><resource><id>4585999794</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/2/f/fe3573771abda4417e2a81551b1466bb386a1.jpg</url></resource><sourceUrl>cardboard-boxes-inside-cardboard-boxes-2.jpg</sourceUrl></object></layer></background><path><s><eagle o="20_753124"/></s><s><eagle o="7"/></s><s><eagle o="8"/></s><s><eagle o="7"/></s><s><eagle o="15_753124"/></s><s><eagle o="30_753124"/></s><s><eagle o="2_753124"/></s><s><buildin o="9"/></s><s><buildin o="4_753124"/></s><s><buildin o="5_753124"/></s><s><buildin o="9_753124"/></s><s><buildin o="6_753124"/></s><s><eagle o="10_753124"/></s><s><eagle o="2_753124"/></s><s><eagle o="17_753124"/></s><s><buildin o="16_753124"/></s><s><buildin o="13_753124"/></s><s><eagle o="14"/></s><s><eagle o="17_753124"/></s><s><eagle o="18_753124"/></s><s><eagle o="11"/></s><s><eagle o="47_753124"/></s><s><eagle o="30_753124"/></s><s><eagle o="31_753124"/></s><s><eagle o="46_753124"/></s></path><style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: custom-liberationmonopr;
+	font-class: custom-liberationmonopr;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+.line1
+{
+	color: #000;
+	gradEndColor: #ccc;
+	gradStartColor: #ccc;
+}
+
+.line2
+{
+	color: #e6e6e6;
+	gradEndColor: #e6e6e6;
+	gradStartColor: #e6e6e6;
+}
+
+.line3
+{
+	color: #9bc4f7;
+	gradEndColor: #9bc4f7;
+	gradStartColor: #9bc4f7;
+}
+
+.line4
+{
+	color: #f2f2f2;
+	gradEndColor: #f2f2f2;
+	gradStartColor: #f2f2f2;
+}
+
+.line5
+{
+	color: #d9d9d9;
+	gradEndColor: #d9d9d9;
+	gradStartColor: #d9d9d9;
+}
+
+.poly1
+{
+	gradEndColor: #ccc;
+	gradStartColor: #ccc;
+}
+
+.poly2
+{
+	gradEndColor: #e6e6e6;
+	gradStartColor: #e6e6e6;
+}
+
+.poly3
+{
+	gradEndColor: #9bc4f7;
+	gradStartColor: #9bc4f7;
+}
+
+.poly4
+{
+	gradEndColor: #f2f2f2;
+	gradStartColor: #f2f2f2;
+}
+
+.poly5
+{
+	gradEndColor: #d9d9d9;
+	gradStartColor: #d9d9d9;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndColor: #333;
+	gradStartColor: #333;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderColor: #ccc;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #ccc;
+	gradStartAlpha: .8;
+	gradStartColor: #ccc;
+	padding: 1.03;
+	radius: 10;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderColor: #e6e6e6;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #e6e6e6;
+	gradStartAlpha: .8;
+	gradStartColor: #e6e6e6;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.8;
+	borderColor: #b0afaf;
+	borderThickness: 20;
+	gradEndAlpha: 0.8;
+	gradEndColor: #f6f6f6;
+	gradStartAlpha: 0.8;
+	gradStartColor: #f6f6f6;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #f2f2f2;
+	background-padding: 5;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #318bff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderColor: #333;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 30;
+}
+
+]]></style><hash>-7b1d65b9</hash><sync><oid>et0ojnzwiuyq</oid><title>passo-a-passo-docker-e-javaee</title><hash>-7b1d65b9</hash></sync><config>fvTHo1qtiLSLMYCtmUax8FsEFXVgWj6wTzBP73LMm/NE0ou4yR8OHf2JAo233jF2eXXa7NaISzYIVY1tFV2BFSoopNiXW8lf4kYebzpZVm/MdYXt4s+l526fFn+hpoGTRctRvWC6nvyHP50Jwm5XsDfiLuwPeiAA/D7ida/jpFm6RdK2/eHeQNoMGjBpU6qW52NG1yt1N+8EtVvzwM4UQK8GJpBLeMfvHQtNHFZGmtkKZON4qXUiIWqgMcjc8mjTndNLhAwFQaTYbK3pFrFCl03U8js/KThxPegDCLSUEu4CJdxxqOrMgUcPLVZqS8temAMMOqLRI4ABs10jbxgDPQ==</config></zuiprezi>
