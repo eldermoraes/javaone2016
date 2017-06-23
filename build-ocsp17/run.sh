@@ -1,7 +1,7 @@
-docker rm -f host1
-docker rm -f host2
-docker rm -f host3
-docker rm -f loadbalancer
+docker rm -f host1 || true
+docker rm -f host2 || true
+docker rm -f host3 || true
+docker rm -f loadbalancer || true
 
 docker run -d --name host1 -p 8080:8080 tomee-war
 docker run -d --name host2 -p 8081:8080 tomee-war
